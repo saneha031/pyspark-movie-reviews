@@ -1,4 +1,4 @@
-# pyspark-movie-reviews
+
 # PySpark Movie Reviews
 
 This is a small project I made for my Data course homework. It uses PySpark to go through the IMDB dataset of 50,000 movie reviews and pull out a few basic insights.
